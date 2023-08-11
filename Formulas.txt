@@ -1,0 +1,6 @@
+Celcuis to Kelvin ==> (inputTemperatureValue + 273.15)
+Celcius to Fahrenhiet ==> (9/5 * inputTemperatureValue) + 32
+Kelvin to Celcius ==> (inputTemperatureValue - 273.15)
+Kelvin to Fahrenhiet ==> 9/5 * (inputTemperatureValue - 273.15) + 32
+Fahrenhiet to Celcius ==> 5/9 * (inputTemperatureValue - 32)
+Fahrenhiet to Kelvin ==> 5/9 * (inputTemperatureValue - 32) + 273.15
